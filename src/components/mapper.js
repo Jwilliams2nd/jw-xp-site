@@ -24,6 +24,12 @@ const Mapper = (props) => {
     }
   }
 
+  const sortByYear = (a, b) => {
+    return a.node.year - b.node.year;
+  };
+
+  painting.sort(sortByYear);
+
   return (
     <Fragment>
       <Window 
