@@ -22,7 +22,7 @@ const Start = (props) => {
             return (
                 <div>
                     <p>My work uses satire and visual riposte to challenge the ambiguity of the black construct as both an
-                    object and abject. What started as an inquiry about the discursive formation of the black race by my
+                    object and personhood. What started as an inquiry about the discursive formation of the black race by my
                     then five-year-old daughter followed my investigation into the subject within American society both
                     past and present. The black construct is complicated, fluid, and unreliable with anthropomorphic
                     qualities. The “truth” of race and complexities is intrinsic to our lives yet as my daughter reminds me
